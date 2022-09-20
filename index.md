@@ -19,7 +19,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 <body>
     <div class="wrapper">
         <div class="my-div">
-			<ul style="list-style-type:circle">
+			<ul style="">
 				<li>US</li>
 				<li>Australia</li>
 				<li>New Zealand</li>

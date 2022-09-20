@@ -88,15 +88,15 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8'></script>
-    <!-- Footer -->
-    <section id="footer">
-        <div class="container">
-            <script type="text/javascript" id="clustrmaps"
-                    src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=gdIoC1pOpD6eu1UoO2lKQN6cibQEUlFh5b-3kNPLL2w&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
-            <ul class="copyright">
-                <li>&copy;All rights reserved.</li>
-                <li>Last updated: 2022.09.16</a></li>
-            </ul>
-        </div>
-    </section>
+
+<!-- Footer -->
+<section id="footer">
+    <div class="container">
+        <script type="text/javascript" id="clustrmaps"
+                src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
+        <ul class="copyright">
+            <li>&copy;All rights reserved.</li>
+            <li>Last updated: 2022.09.16</a></li>
+        </ul>
+    </div>
+</section>

@@ -98,5 +98,5 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 			li{ list-style: none;}
         </style>
         <ul class="copyright">
-			<li><center>Last updated: 2022.09.20</li>
-        </ul>
+			<center>Last updated: 2022.09.20</li>
+

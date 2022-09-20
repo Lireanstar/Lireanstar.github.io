@@ -1,11 +1,15 @@
 # Welcome to Bin Li's HomePage
+<h3>Bin Li</h3>
+<p>PhD Candidate, Hunan University
+<!--                        <br>Changsha, China</br>-->
+</p>
 
 
-Bin Li is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [[Hunan University]](https://www.hnu.edu.cn/), was fortunately supervised by Prof. [[Shutao Li]](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [[Bin Sun]](http://eeit.hnu.edu.cn/info/1549/8165.htm). He received his B.S. degree from [[Yanshan University]](https://www.ysu.edu.cn/) in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
+He is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). He received his B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
 
-- 09/2022: Our paper has been accepted by INFORM FUSION, and congratulations to Zuxiang Long.
+- 09/2022: Our paper has been accepted by INFORM FUSION, and congratulations to
 - 08/2022: We were awarded the first prize for two tasks on ACMMM-2022 Grand Challenge.
 - 07/2022: One Journal paper has been accepted by IEEE-TGRS, and one Conference paper has been accepted by ACM-MM'22.
 - 05/2022: Four co-authored manuscripts have been submitted to ACM-MM, IEEE-TIP, IEEE-TGRS, INFORM FUSION.
@@ -59,4 +63,3 @@ Bin Li is a fourth-year Ph.D. student in the College of Electrical and Informati
 - **Second Place** Dialogue 2022: RuATD(multi) [[web]](https://www.kaggle.com/c/ruatd-2022-multi-task/leaderboard)
 - **Second Place** 千言：面向事实一致性的生成评测比赛 [[web]](https://aistudio.baidu.com/aistudio/competition/detail/105/0/leaderboard)
 - **Second Place** 同花顺 超长答案的阅读理解[[web]](http://contest.aicubes.cn/#/detail?topicId=25)
-

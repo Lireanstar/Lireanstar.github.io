@@ -1,10 +1,10 @@
 # Welcome to Bin Li's HomePage
-<h1>Bin Li</h1>
+<font color=black size=32>text</font>
 <p>PhD Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
 </p>
 
-He is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). He received his B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
+He is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). He received his B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
 
@@ -16,7 +16,9 @@ He is a fourth-year Ph.D. student in the College of Electrical and Information E
 - 10/2021 : We won the MUSE-Stress Challenge in ACM-MM2021. 🏆🏆🏆
 - 10/2021 : One Journal paper has been accepted by IEEE-TAFFC.
 - 09/2021 : One Conference paper has been accepted by ACM-MM2021 Workshop.
-- 04/2020 : One Conference paper has been accepted by IGARSS2020.
+
+
+- 04/2021 : We won the MUSE-Stress Challenge in ICLR-MLPCP 2021. 🏆🏆🏆
 
 
 
@@ -43,15 +45,14 @@ He is a fourth-year Ph.D. student in the College of Electrical and Information E
 
 
 ## Awards
-
+- **First Place**   CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
 - **First Place**   SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
 - **First Place**   SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)
 - **First Place**   SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
 - **First Place**   SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
 - **First Place**   SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
 - **First Place**   BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
-- **First Place**   CCKS 2021：医疗科普知识答非所问识别 [[web]](https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/)
-- **First Place**   CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
+
 - **First Place**   2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
 - **First Place**  科大讯飞2021 低资源多语种文本翻译挑战赛 [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021)
 - **First Place**  科大讯飞2022 低资源多语种文本翻译挑战赛2.0 [[web]](https://challenge.xfyun.cn/topic/info?type=multi-language-2022)

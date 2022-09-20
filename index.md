@@ -64,18 +64,18 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 
 ## Awards
-- **First Prize**   ICLR 2021：Entity-aware Medical Dialogue Generation (MedDG) Challenge [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
-- **First Prize**   CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
+- **First Prize**  ICLR 2021：Entity-aware Medical Dialogue Generation (MedDG) Challenge [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
+- **First Prize**  CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
 - **First Prize**  科大讯飞2021 低资源多语种文本翻译挑战赛 [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021)
-- **First Prize**   2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
+- **First Prize**  2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
 - **First Prize**  MAXP 创新赛道 [[web]](https://www.biendata.xyz/competition/maxp_innovation/)
 - **First Prize**  智源 清华-西门子智能开发赛 [[web]](https://www.biendata.xyz/competition/qhxmz/)
-- **First Prize**   SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
-- **First Prize**   SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)
-- **First Prize**   SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
-- **First Prize**   SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
-- **First Prize**   SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
-- **First Prize**   BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
+- **First Prize**  SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
+- **First Prize**  SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)
+- **First Prize**  SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
+- **First Prize**  SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
+- **First Prize**  SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
+- **First Prize**  BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
 - **First Prize**  NLPCC 2022：Multimodal Dialogue Understanding and Generation  [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
 - **First Prize**  科大讯飞2022 低资源多语种文本翻译挑战赛2.0 [[web]](https://challenge.xfyun.cn/topic/info?type=multi-language-2022)
 - **First Prize**  科大讯飞2022 机器翻译质量评估挑战赛 [[web]](https://challenge.xfyun.cn/topic/info?type=translation-quality)
@@ -84,4 +84,4 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Second Prize** 同花顺 超长答案的阅读理解[[web]](http://contest.aicubes.cn/#/detail?topicId=25)
 - **Third Prize** Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
 - **Third Prize** "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
-- **Third Prize** "iFLYTEK 2022 University Innovation Application Competition - New Medical Track".
+- **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".

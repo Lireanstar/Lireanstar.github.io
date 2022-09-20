@@ -24,10 +24,10 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 04/2021 : We won the Shared Task Medical Video Classification on BioNLP in ACL-2022 [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058). 🏆🏆🏆
 - 03/2021 : Five workshop papers have been accepted by *CEUR*. journal (EI indexed) [[web]](http://ceur-ws.org/Vol-3164/).
 - 02/2021 : We won two championships of Task 1 and Task 3 in SemEval@NAACL [[web]](https://competitions.codalab.org/competitions/34022) and [[web]](https://sites.google.com/view/semeval2022-pretens/). 🏆🏆🏆
-- 01/2022 : We won the "Tsinghua-Siemens" Intelligent Development Competition [[web]](https://www.biendata.xyz/wudao/#/winners). 🏆🏆🏆
+- 01/2022 : We won the "Tsinghua-Siemens" Intelligent Development Competition [[web]](https://www.biendata.xyz/wudao/#/winners). 🥇🥇🥇
 - 01/2022 : We got the third prize and the best popularity award in "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners).
-- 12/2021 : Our work: "LingYi", won the gold medal and the best popularity award of the "Future Cup" in AI Academic League [[web]](https://www.sohu.com/a/501144845_120525967). 🏆🏆🏆
-- 12/2021 : We won the championship of 2021 Global MAX Performance (MAXP) Cloud Computing Innovation Competition [[web]](https://www.biendata.xyz/competition/maxp_innovation/). 🏆🏆🏆
+- 12/2021 : Our work: "LingYi", won the gold medal and the best popularity award of the "Future Cup" in AI Academic League [[web]](https://www.sohu.com/a/501144845_120525967). 🥇🥇🥇
+- 12/2021 : We won the championship of 2021 Global MAX Performance (MAXP) Cloud Computing Innovation Competition [[web]](https://www.biendata.xyz/competition/maxp_innovation/). 🥇🥇🥇
 - 12/2021 : We won the two championships of the Scientific Document Understanding Challenge (SDU) in AAAI-2022 [[web]](https://sites.google.com/view/sdu-aaai22/home). 🏆🏆🏆
 - 12/2021 : We won the Outline-based conditional story generation challenge held by NLGIW-2022 [[web]](http://nlg.cipsc.org.cn/evaluation_8.html). 🏆🏆🏆
 - 11/2021 : One conference [[paper]](http://sigkg.cn/ccks2021/?page_id=669) and one Demo [[paper]](http://sigkg.cn/ccks2021/?page_id=749) has been accepted by CCKS-2021 [[poster]](https://hub.baai.ac.cn/view/13215) [[demo]](https://hub.baai.ac.cn/view/13281).
@@ -88,8 +88,8 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ---
 
-
 <!-- Footer -->
+
 <section id="footer">
     <div class="container">
         <script type="text/javascript" id="clustrmaps"
@@ -98,7 +98,5 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 			li{ list-style: none;}
         </style>
         <ul class="copyright">
-			<li>Last updated: 2022.09.20</li>
+			<li><center>Last updated: 2022.09.20</li>
         </ul>
-    </div>
-</section>

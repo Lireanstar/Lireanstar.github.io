@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS3 scrollbar styling on a div</title>
+    <link rel="stylesheet" href="global-styles.css">
+</head>
+
 # Welcome to Bin Li's HomePage
 <h1>Bin Li</h1>
 <p>PhD Candidate, Hunan University
@@ -6,9 +15,44 @@
 
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received his B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2018. My research interests include natural language process, human-robot interaction and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
+<body>
+
+    <div class="wrapper">
+        <div class="my-div">
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+        </div>
+        <div class="my-div">
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+            <p>Hello World</p>
+        </div>
+    </div>
+</body>
+
+</html>
 ## News
 
-- 09/2022: Our paper has been accepted by INFORM FUSION, and congratulations to
+- 09/2022: One journal paper has been accepted by Soft Computing [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w).
 - 08/2022: We were awarded the first prize for two tasks on ACMMM-2022 Grand Challenge.
 - 07/2022: One Journal paper has been accepted by IEEE-TGRS, and one Conference paper has been accepted by ACM-MM'22.
 - 05/2022: Four co-authored manuscripts have been submitted to ACM-MM, IEEE-TIP, IEEE-TGRS, INFORM FUSION.

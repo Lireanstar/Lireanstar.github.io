@@ -81,7 +81,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **First Prize**  科大讯飞2022 机器翻译质量评估挑战赛 [[web]](https://challenge.xfyun.cn/topic/info?type=translation-quality)
 - **Second Prize** Dialogue 2022: RuATD(multi) [[web]](https://www.kaggle.com/c/ruatd-2022-multi-task/leaderboard)
 - **Second Prize** 千言：面向事实一致性的生成评测比赛 [[web]](https://aistudio.baidu.com/aistudio/competition/detail/105/0/leaderboard)
-- **Second Prize** 同花顺 超长答案的阅读理解[[web]](http://contest.aicubes.cn/#/detail?topicId=25)
+- **Second Prize** 同花顺 超长答案的阅读理解 [[web]](http://contest.aicubes.cn/#/detail?topicId=25)
 - **Third Prize** Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
 - **Third Prize** "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
 - **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".

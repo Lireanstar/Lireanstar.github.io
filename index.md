@@ -1,10 +1,14 @@
-# Welcome to Libincn HomePage
+# Welcome to Bin Li's HomePage
+
 
 Bin Li is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of Hunan University, was fortunately supervised by Prof. Shutao Li and Prof. Bin Sun. He received his B.S. degree from Yanshan University in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## Paper
 
 #### The following are the papers I have participated in:
+
+
+## Publications
 
 - LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs. [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/)
 - ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing[[paper]](http://ceur-ws.org/Vol-3164/paper20.pdf) [[code]](https://github.com/WENGSYX/ADBCMM)
@@ -26,9 +30,7 @@ Bin Li is a fourth-year Ph.D. student in the College of Electrical and Informati
 - A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model
 
 
-## competition
-
-#### Here are the competitions I participated in:
+## Awards
 
 - **First Place**   SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
 - **First Place**   SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)

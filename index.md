@@ -7,8 +7,8 @@
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received his B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2018. My research interests include natural language process, human-robot interaction and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
-<html lang="en">
 
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,18 +19,11 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 <body>
     <div class="wrapper">
         <div class="my-div">
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
-            <p>Hello World</p>
+			<ul style="list-style-type:circle">
+				<li>US</li>
+				<li>Australia</li>
+				<li>New Zealand</li>
+			</ul>
         </div>
     </div>
 </body>

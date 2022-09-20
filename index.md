@@ -86,4 +86,5 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Third Prize** "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
 - **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".
 ----
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8'></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8'></script>

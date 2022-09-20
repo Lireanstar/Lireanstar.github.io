@@ -3,10 +3,19 @@
 
 Bin Li is a fourth-year Ph.D. student in the College of Electrical and Information Engineering of Hunan University, was fortunately supervised by Prof. Shutao Li and Prof. Bin Sun. He received his B.S. degree from Yanshan University in 2018. His research interests include natural language process, human-robot interaction and multimodal fusion. He serves as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
-## Paper
+## News
 
-#### The following are the papers I have participated in:
-1
+- 09/2022: Our paper has been accepted by INFORM FUSION, and congratulations to Zuxiang Long.
+- 08/2022: We were awarded the first prize for two tasks on ACMMM-2022 Grand Challenge.
+- 07/2022: One Journal paper has been accepted by IEEE-TGRS, and one Conference paper has been accepted by ACM-MM'22.
+- 05/2022: Four co-authored manuscripts have been submitted to ACM-MM, IEEE-TIP, IEEE-TGRS, INFORM FUSION.
+- 12/2021: I got the President's PhD Scholarship.
+- 10/2021 : We won the MUSE-Stress Challenge in ACM-MM2021. 🏆🏆🏆
+- 10/2021 : One Journal paper has been accepted by IEEE-TAFFC.
+- 09/2021 : One Conference paper has been accepted by ACM-MM2021 Workshop.
+- 04/2020 : One Conference paper has been accepted by IGARSS2020.
+
+
 
 ## Publications
 

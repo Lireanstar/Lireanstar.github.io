@@ -1,5 +1,5 @@
 # Welcome to Bin Li's HomePage
-<h1>Bin Li</h0>
+<h1>Bin Li</h1>
 <p>PhD Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
 </p>
@@ -16,9 +16,7 @@ He is a fourth-year Ph.D. student in the College of Electrical and Information E
 - 10/2021 : We won the MUSE-Stress Challenge in ACM-MM2021. 🏆🏆🏆
 - 10/2021 : One Journal paper has been accepted by IEEE-TAFFC.
 - 09/2021 : One Conference paper has been accepted by ACM-MM2021 Workshop.
-
-
-- 04/2021 : We won the MUSE-Stress Challenge in ICLR-MLPCP 2021. 🏆🏆🏆
+- 05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLRW-MLPCP 2021. 🏆🏆🏆
 
 
 

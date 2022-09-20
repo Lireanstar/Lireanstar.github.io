@@ -1,5 +1,5 @@
 # Welcome to Bin Li's HomePage
-<h1>Bin Li</h1>
+<h1><b>Bin Li<\b></h1>
 <p>PhD Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
 </p>
@@ -98,5 +98,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 			li{ list-style: none;}
         </style>
         <ul class="copyright">
-			<center>Last updated: 2022.09.20
+			<center>Last updated: 2022.09.20
+
+
 

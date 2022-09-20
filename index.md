@@ -99,7 +99,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
         </style>
         <ul class="copyright">
 			<li>&copy;All rights reserved.</li>
-			<li>Last updated: 2022.09.16</li>
+			<li>Last updated: 2022.09.20</li>
         </ul>
     </div>
 </section>

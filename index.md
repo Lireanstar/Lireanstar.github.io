@@ -98,7 +98,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 			li{ list-style: none;}
         </style>
         <ul class="copyright">
-			<li>&copy;All rights reserved.</li>
 			<li>Last updated: 2022.09.20</li>
         </ul>
     </div>

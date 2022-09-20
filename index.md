@@ -1,5 +1,5 @@
 # Welcome to Bin Li's HomePage
-<h1><b>Bin Li</b></h1>
+<h1><b>Bin Li<\b></h1>
 <p>PhD Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
 </p>
@@ -45,8 +45,8 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Bin Li**, Hanjun Deng, **Bilateral personalized dialogue generation with contrastive learning**, Accepted in Soft Computing, [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w) [[code]](https://github.com/Lireanstar/BPDG).
 - Xia Fei\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Kang Liu, Bin Sun, Shutao Li, and Jun Zhao, **MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs**, Accepted in EMNLP Demonstration (2022) [[Arxiv]](https://arxiv.org/abs/2204.09220) [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/).
 - **Bin Li**\*, Yixuan Weng\*, Ziyu Ma\*, Bin Sun, and Shutao Li, **Scene-Aware Prompt for Multi-modal Dialogue Understanding and Generation**, Accepted in NLPCC-2022 [[paper]](https://arxiv.org/abs/2207.01823).
-- **Li Bin**\*, Xia Fei\*, Yixuan Weng, Xiusheng Huang, Bin Sun, and Shutao Li, **SimCLAD: A Simple Framework for Contrastive Learning of Acronym Disambiguation**, Accepted in *CEUR*. journal [[paper]]([paper]).
-- **Li Bin**, Xia Fei, Yixuan Weng, Xiusheng Huang, and Bin Sun, **PSG: Prompt-based Sequence Generation for Acronym Extraction**, Accepted in *CEUR*. journal  [[paper]](http://ceur-ws.org/Vol-3164/paper22.pdf).
+- **Bin Li**\*, Xia Fei\*, Yixuan Weng, Xiusheng Huang, Bin Sun, and Shutao Li, **SimCLAD: A Simple Framework for Contrastive Learning of Acronym Disambiguation**, Accepted in *CEUR*. journal [[paper]]([paper]).
+- **Bin Li**, Xia Fei, Yixuan Weng, Xiusheng Huang, and Bin Sun, **PSG: Prompt-based Sequence Generation for Acronym Extraction**, Accepted in *CEUR*. journal  [[paper]](http://ceur-ws.org/Vol-3164/paper22.pdf).
 - **Bin Li**\*, Yixuan Weng\*, Fei Xia, Bin Sun, and Shutao Li, **VPAI_Lab at MedVidQA 2022: A Two-Stage Cross-modal Fusion Method for Medical Instructional Video Classification**, Accepted in BioNLP@ACL 2022 [[paper]](https://aclanthology.org/2022.bionlp-1.21/).
 - **Bin Li**\*, Yixuan Weng\*, Fei Xia\*, Shizhu He, Bin Sun, and Shutao Li, **LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary**, Accepted in SemEval@NAACL [[paper]](https://aclanthology.org/2022.semeval-1.4/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/1).
 - **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, Fuyan Ma, Bin Sun, Shutao Li, **Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction**, Accepted in WASSA@ACL 2022. [[paper]](https://aclanthology.org/2022.wassa-1.28/).

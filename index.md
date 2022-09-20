@@ -8,44 +8,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## News
 
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS3 scrollbar styling on a div</title>
-    <link rel="stylesheet" href="global-styles.css">
-</head>
-<body>
-    <div class="wrapper">
-        <div class="my-div">
-    		<ul style="">
-    			<li>09/2022: One journal paper has been accepted by Soft Computing [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w).</li>
-    			<li>08/2022: We were awarded the first prize for two tasks on ACMMM-2022 Grand Challenge.</li>
-    			<li>03/2021 : Five workshop papers have been accepted by CEUR (EI indexed) [[web]](http://ceur-ws.org/Vol-3164/).</li>
-                <li>02/2021 : We won two SemEval competitions</li>
-                <li>01/2022 : We won the "Tsinghua-Siemens" Intelligent Development Competition [[web]](https://www.biendata.xyz/wudao/#/winners). 🏆🏆🏆</li>
-                <li>01/2022 : We won the third prize and the best popularity award of "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners).</li>
-                <li>12/2021 : Our work: "LingYi", won the gold medal and the best popularity award of the "Future Cup" in AI Academic League [[web]](https://www.sohu.com/a/501144845_120525967). 🏆🏆🏆</li>
-                <li>12/2021 : We won the championship of 2021 Global MAX Performance (MAXP) Cloud Computing Innovation Competition [[web]](https://www.biendata.xyz/competition/maxp_innovation/).</li>
-                <li>12/2021 : We won the two championships of the Scientific Document Understanding Challenge (SDU) in AAAI-2022 [[web]](https://sites.google.com/view/sdu-aaai22/home). 🏆🏆🏆</li>
-                <li>11/2021 : One conference [[paper]](http://sigkg.cn/ccks2021/?page_id=669) and one Demo [[paper]](http://sigkg.cn/ccks2021/?page_id=749) has been accepted by CCKS-2021 [[poster]](https://hub.baai.ac.cn/view/13215) [[demo]](https://hub.baai.ac.cn/view/13281).</li>
-                <li>10/2021 : We won the Low-Resource Multilingual Text Translation Challenge in 2021 iFLYTEK AI Developer Competition [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021). 🏆🏆🏆</li>
-                <li>07/2021 : We won the CCKS 2021：蕴含实体的中文医疗对话生成比赛 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/winners/).  🏆🏆🏆</li>
-                <li>05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLR-MLPCP 2021 [[web]](https://competitions.codalab.org/competitions/30755#learn_the_details). 🏆🏆🏆</li>
-    			<li>05/2021 : We won the CCKS 2021：蕴含实体的中文医疗对话生成比赛 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/winners/). 🏆🏆🏆</li>
-    			<li>05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLR-MLPCP 2021. [[web]](https://competitions.codalab.org/competitions/30755#learn_the_details) 🏆🏆🏆</li>
-    		</ul>
-        </div>
-    </div>
-
-</body>
-
-</html>
-
-- 
-- 
-- 
+- 09/2022: One journal paper has been accepted by Soft Computing [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
 - 03/2021 : Five workshop papers have been accepted by CEUR (EI indexed) [[web]](http://ceur-ws.org/Vol-3164/).
 - 02/2021 : We won two SemEval competitions
 - 01/2022 : We won the "Tsinghua-Siemens" Intelligent Development Competition [[web]](https://www.biendata.xyz/wudao/#/winners). 🏆🏆🏆
@@ -58,8 +21,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 10/2021 : We won the Low-Resource Multilingual Text Translation Challenge in 2021 iFLYTEK AI Developer Competition [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021). 🏆🏆🏆
 - 07/2021 : We won the CCKS 2021：蕴含实体的中文医疗对话生成比赛 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/winners/).  🏆🏆🏆
 - 05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLR-MLPCP 2021 [[web]](https://competitions.codalab.org/competitions/30755#learn_the_details). 🏆🏆🏆
-
-
 
 ## Publications
 

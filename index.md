@@ -1,5 +1,5 @@
 # Welcome to Bin Li's HomePage
-<h1><b>Bin Li<\b></h1>
+<h1><b>Bin Li</b></h1>
 <p>PhD Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
 </p>

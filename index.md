@@ -40,45 +40,48 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## Publications
 
-- Xia Fei\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Kang Liu, Bin Sun, Shutao Li, and Jun Zhao, **LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**, Accepted in EMNLP Demonstration (2022) [[paper]](https://arxiv.org/abs/2204.09220) [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/).
+- **Bin Li**, Bin Sun, Shutao Li, Encheng Chen, Hongru Liu, Yixuan Weng, Yongping Bai, and Meiling Hu, **Distinct but Correct: Generating Diversified and Entity-revised Medical Response**, Accepted in SCIENCE CHINA Information Sciences [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/).
+- **Bin Li**, Hanjun Deng, **Bilateral personalized dialogue generation with contrastive learning**, Accepted in Soft Computing, [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w) [[code]](https://github.com/Lireanstar/BPDG).
+- Xia Fei\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Kang Liu, Bin Sun, Shutao Li, and Jun Zhao, **MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs**, Accepted in EMNLP Demonstration (2022) [[Arxiv]](https://arxiv.org/abs/2204.09220) [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/).
+- **Bin Li**\*, Yixuan Weng\*, Ziyu Ma\*, Bin Sun, and Shutao Li, **Scene-Aware Prompt for Multi-modal Dialogue Understanding and Generation**, Accepted in NLPCC-2022 [[paper]](https://arxiv.org/abs/2207.01823).
 - **Li Bin**\*, Xia Fei\*, Yixuan Weng, Xiusheng Huang, Bin Sun, and Shutao Li, **SimCLAD: A Simple Framework for Contrastive Learning of Acronym Disambiguation**, Accepted in *CEUR*. journal [[paper]]([paper]).
-- **Li Bin**, Xia Fei, Yixuan Weng, Xiusheng Huang, Bin Sun, **PSG: Prompt-based Sequence Generation for Acronym Extraction** [[paper]](http://ceur-ws.org/Vol-3164/paper22.pdf), Accepted in *CEUR*. journal.
-- Yixuan Weng, Fei Xia, **Bin Li**, Xiusheng Huang, Shizhu He, Kang Liu, and Jun Zhao, ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper20.pdf) [[code]](https://github.com/WENGSYX/ADBCMM).
-- Xiusheng Huang, **Bin Li**, Fei Xia, Yixuan Weng, A Novel Initial Reminder Framework for Acronym Extraction [[paper]](http://ceur-ws.org/Vol-3164/paper29.pdf).
-- Fei Xia\*, **Bin Li**\*, Yixuan Weng, Xiusheng Huang, Shizhu He, ANACONDA: Adversarial training with iNtrust loss in ACrONym DisambiguAtion, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper15.pdf).
-- **Bin Li**\*, Yixuan Weng\*, Fei Xia\*, Shizhu He, Bin Sun, Shutao Li, LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary [[paper]](https://aclanthology.org/2022.semeval-1.4/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/1)
-- LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer [[paper]](https://aclanthology.org/2022.semeval-1.30/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/3)
-- Find Parent then Label Children: A Two-stage Taxonomy Expansion Method with Pre-trained Language Model 
-- Distinct but Correct: Generating Diversified and Entity-revised Medical Response [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/)
-- ANACONDA: Adversarial Training with In-trust Loss in Acronym Disambiguation
-- SimCLAD: A Simple Framework for Contrastive Learning of Acronym Disambiguation
-- A Knowledge Storage and Semantic Space Alignment Method for Multi-documents Dialogue Generation [[paper]](https://aclanthology.org/2022.dialdoc-1.14/)
-- VPAI_Lab at MedVidQA 2022: A Two-Stage Cross-modal Fusion Method for Medical Instructional Video Classification [[paper]](https://aclanthology.org/2022.bionlp-1.21/)
-- VPTG: Visual Knowledge Transfer with Neural Prompt in multi-modal Dialogue Understanding and Generation
-- Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[paper]](https://arxiv.org/abs/2203.06667)
-- Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages [[paper]](https://arxiv.org/abs/2204.04344)
-- Scene-Aware Prompt for Multi-modal Dialogue Understanding and Generation [[paper]](https://arxiv.org/abs/2207.01823)
-- Prompt-based system for personality and interpersonal reactivity prediction [[paper]](https://www.softwareimpacts.com/article/S2665-9638(22)00040-9/fulltext#:~:text=The%20prompt-based%20method%20consists%20of%20a%20pre-trained%20model,and%20interpersonal%20reactivity%20prediction.%206.%20Publications%20and%20impacts)
-- Artificial Text Detection with Multiple Training Strategies [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf)
-- A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model
+- **Li Bin**, Xia Fei, Yixuan Weng, Xiusheng Huang, and Bin Sun, **PSG: Prompt-based Sequence Generation for Acronym Extraction**, Accepted in *CEUR*. journal  [[paper]](http://ceur-ws.org/Vol-3164/paper22.pdf).
+- **Bin Li**\*, Yixuan Weng\*, Fei Xia, Bin Sun, and Shutao Li, **VPAI_Lab at MedVidQA 2022: A Two-Stage Cross-modal Fusion Method for Medical Instructional Video Classification**, Accepted in BioNLP@ACL 2022 [[paper]](https://aclanthology.org/2022.bionlp-1.21/).
+- **Bin Li**\*, Yixuan Weng\*, Fei Xia\*, Shizhu He, Bin Sun, and Shutao Li, **LingJing at SemEval-2022 Task 1: Multi-task Self-supervised Pre-training for Multilingual Reverse Dictionary**, Accepted in SemEval@NAACL [[paper]](https://aclanthology.org/2022.semeval-1.4/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/1).
+- **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, Fuyan Ma, Bin Sun, Shutao Li, **Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction**, Accepted in WASSA@ACL 2022. [[paper]](https://aclanthology.org/2022.wassa-1.28/).
+- **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, Bin Sun, and Shutao Li, **Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification**, Accepted in WASSA@ACL 2022. [[paper]](https://aclanthology.org/2022.wassa-1.22/).
+- **Bin Li**, Yixuan Weng, **Prompt-based system for personality and interpersonal reactivity prediction**, Accepted in Software impacts [[paper]](https://www.softwareimpacts.com/article/S2665-9638(22)00040-9/fulltext#:~:text=The%20prompt-based%20method%20consists%20of%20a%20pre-trained%20model,and%20interpersonal%20reactivity%20prediction.%206.%20Publications%20and%20impacts).
+- **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, and Hanjun Deng, **Artificial Text Detection with Multiple Training Strategies**, Accepted in Dialogue-2022 [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
+- **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model**, Accepted in CCMT-2022 [[paper]](http://sc.cipsc.org.cn/mt/conference/2022/papers/test_paper/53/53_Paper.pdf).
+- Yixuan Weng, Fei Xia, **Bin Li**, Xiusheng Huang, Shizhu He, Kang Liu, and Jun Zhao, **ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper20.pdf) [[code]](https://github.com/WENGSYX/ADBCMM).
+- Xiusheng Huang, **Bin Li**, Fei Xia, and Yixuan Weng, **A Novel Initial Reminder Framework for Acronym Extraction**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper29.pdf).
+- Fei Xia\*, **Bin Li**\*, Yixuan Weng, Xiusheng Huang, and Shizhu He, **ANACONDA: Adversarial training with iNtrust loss in ACrONym DisambiguAtion**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper15.pdf).
+- Fei Xia\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Bin Sun, Shutao Li, Kang Liu, and Jun Zhao, **LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer**, Accepted in SemEval@NAACL [[paper]](https://aclanthology.org/2022.semeval-1.30/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/3).
+- Minjun Zhu, **Bin Li**, Yixuan Weng, and Fei Xia, **A Knowledge Storage and Semantic Space Alignment Method for Multi-documents Dialogue Generation**, Accepted in DialDoc@ACL 2022 [[paper]](https://aclanthology.org/2022.dialdoc-1.14/).
+- 李宾，陈恩城，刘鸿儒，翁诣轩，孙斌，李树涛，柏勇平，and 胡美玲, **CCKS2021：蕴含实体的中文医疗对话生成评测报告**, Accepted in CCKS-2021 [[paper]](http://sigkg.cn/ccks2021/wp-content/uploads/2021/12/CCKS2021%EF%BC%9A%E8%95%B4%E5%90%AB%E5%AE%9E%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%BB%E7%96%97%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90-1.pdf).
+- **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**, Under Review [[paper]](https://arxiv.org/abs/2203.06667)
+- **Bin Li**, Yixuan Weng, Fei Xia, and Hanjun Deng, **Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages**, Under Review [[paper]](https://arxiv.org/abs/2204.04344).
 
 
 ## Awards
-- **First Place**   CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
-- **First Place**   SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
-- **First Place**   SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)
-- **First Place**   SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
-- **First Place**   SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
-- **First Place**   SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
-- **First Place**   BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
-
-- **First Place**   2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
-- **First Place**  科大讯飞2021 低资源多语种文本翻译挑战赛 [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021)
-- **First Place**  科大讯飞2022 低资源多语种文本翻译挑战赛2.0 [[web]](https://challenge.xfyun.cn/topic/info?type=multi-language-2022)
-- **First Place**  科大讯飞2022 机器翻译质量评估挑战赛 [[web]](https://challenge.xfyun.cn/topic/info?type=translation-quality)
-- **First Place**  智源 清华-西门子智能开发赛 [[web]](https://www.biendata.xyz/competition/qhxmz/)
-- **First Place**  MAXP 创新赛道 [[web]](https://www.biendata.xyz/competition/maxp_innovation/)
-- **First Place**  CCKS 2022：教科书示意图问答评测 [[web]](https://www.biendata.xyz/competition/ccks2022dqa/)
-- **Second Place** Dialogue 2022: RuATD(multi) [[web]](https://www.kaggle.com/c/ruatd-2022-multi-task/leaderboard)
-- **Second Place** 千言：面向事实一致性的生成评测比赛 [[web]](https://aistudio.baidu.com/aistudio/competition/detail/105/0/leaderboard)
-- **Second Place** 同花顺 超长答案的阅读理解[[web]](http://contest.aicubes.cn/#/detail?topicId=25)
+- **First Prize**   ICLR 2021：Entity-aware Medical Dialogue Generation (MedDG) Challenge [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
+- **First Prize**   CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
+- **First Prize**  科大讯飞2021 低资源多语种文本翻译挑战赛 [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021)
+- **First Prize**   2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
+- **First Prize**  MAXP 创新赛道 [[web]](https://www.biendata.xyz/competition/maxp_innovation/)
+- **First Prize**  智源 清华-西门子智能开发赛 [[web]](https://www.biendata.xyz/competition/qhxmz/)
+- **First Prize**   SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
+- **First Prize**   SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)
+- **First Prize**   SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
+- **First Prize**   SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
+- **First Prize**   SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
+- **First Prize**   BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
+- **First Prize**  NLPCC 2022：Multimodal Dialogue Understanding and Generation  [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
+- **First Prize**  科大讯飞2022 低资源多语种文本翻译挑战赛2.0 [[web]](https://challenge.xfyun.cn/topic/info?type=multi-language-2022)
+- **First Prize**  科大讯飞2022 机器翻译质量评估挑战赛 [[web]](https://challenge.xfyun.cn/topic/info?type=translation-quality)
+- **Second Prize** Dialogue 2022: RuATD(multi) [[web]](https://www.kaggle.com/c/ruatd-2022-multi-task/leaderboard)
+- **Second Prize** 千言：面向事实一致性的生成评测比赛 [[web]](https://aistudio.baidu.com/aistudio/competition/detail/105/0/leaderboard)
+- **Second Prize** 同花顺 超长答案的阅读理解[[web]](http://contest.aicubes.cn/#/detail?topicId=25)
+- **Third Prize** Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
+- **Third Prize** "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
+- **Third Prize** "iFLYTEK 2022 University Innovation Application Competition - New Medical Track".

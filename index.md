@@ -69,7 +69,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **First Prize**  CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
 - **First Prize**  科大讯飞2021 低资源多语种文本翻译挑战赛 [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2021)
 - **First Prize**  2021未来杯 AI 学术联赛 [[web]](https://ai.futurelab.tv/contest_detail/22)
-- **First Prize**  2021 MAXP 创新赛道 [[web]](https://www.biendata.xyz/competition/maxp_innovation/)
+- **First Prize**  2021 MAXP全球高性能云计算比赛-创新赛道 [[web]](https://www.biendata.xyz/competition/maxp_innovation/)
 - **First Prize**  2021 智源 清华-西门子智能开发赛 [[web]](https://www.biendata.xyz/competition/qhxmz/)
 - **First Prize**  SDU@AAAI-22:  Acronym Extraction [[web]](https://competitions.codalab.org/competitions/34925)
 - **First Prize**  SDU@AAAI-22:  Acronym Disambiguation [[web]](https://competitions.codalab.org/competitions/34899)

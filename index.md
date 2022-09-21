@@ -24,7 +24,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 05/2022 : We got second prize of RuATD (multi) at Kaggle in Dialogue-2022 [[web]](https://www.kaggle.com/competitions/ruatd-2022-multi-task/overview/evaluation). 
 - 04/2022 : We won the Shared Task Medical Video Classification on BioNLP in ACL-2022 [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058). 🏆🏆🏆
 - 03/2022 : Five workshop papers have been accepted by *CEUR*. journal (EI indexed) [[web]](http://ceur-ws.org/Vol-3164/).
-- 02/2022 : We won two championships of Task 1 and Task 3 in SemEval@NAACL [[web]](https://competitions.codalab.org/competitions/34022) and [[web]](https://sites.google.com/view/semeval2022-pretens/). 🏆🏆🏆
+- 02/2022 : We won two championships of Task 1 [[web]](https://competitions.codalab.org/competitions/34022) and Task 3 [[web]](https://sites.google.com/view/semeval2022-pretens/) in SemEval@NAACL-2022. 🏆🏆🏆
 - 01/2022 : We won the 2021 "Tsinghua-Siemens" Intelligent Development Competition [[web]](https://www.biendata.xyz/wudao/#/winners). 🥇🥇🥇
 - 01/2022 : We got the third prize and the best popularity award in 2021 "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners).
 - 12/2021 : Our work: "LingYi", won the gold medal and the best popularity award of the 2021 "Future Cup" in AI Academic League [[web]](https://www.sohu.com/a/501144845_120525967). 🥇🥇🥇

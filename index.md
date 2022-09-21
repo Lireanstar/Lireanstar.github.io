@@ -1,5 +1,4 @@
 # Welcome to Bin Li's HomePage
----
 <h1><b>Bin Li</b></h1>
 <p>Ph.D. Candidate, Hunan University
 <!--                        <br>Changsha, China</br>-->
@@ -7,7 +6,7 @@
 
 
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
----
+
 ## News
 
 - 09/2022 : Our Demonstration paper has been accepted by EMNLP-2022 [[Arxiv]](https://arxiv.org/abs/2204.09220).
@@ -39,7 +38,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 08/2021 : We got the third prize in Aminer scholar portrait prediction challenge in CCKS 2021 [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu).  
 - 07/2021 : We won the championship in CCKS 2021：蕴含实体的中文医疗对话生成比赛 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/winners/).  🏆🏆🏆
 - 05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLR-MLPCP 2021 [[web]](https://competitions.codalab.org/competitions/30755#learn_the_details). 🏆🏆🏆
----
+
 ## Publications
 
 - **Bin Li**, Bin Sun, Shutao Li, Encheng Chen, Hongru Liu, Yixuan Weng, Yongping Bai, and Meiling Hu, **Distinct but Correct: Generating Diversified and Entity-revised Medical Response**, Accepted in SCIENCE CHINA Information Sciences [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/).
@@ -64,7 +63,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**, Under Review [[paper]](https://arxiv.org/abs/2203.06667)
 - **Bin Li**, Yixuan Weng, Fei Xia, and Hanjun Deng, **Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages**, Under Review [[paper]](https://arxiv.org/abs/2204.04344).
 
----
+
 ## Awards
 - **First Prize**  ICLR 2021：Entity-aware Medical Dialogue Generation (MedDG) Challenge [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)
 - **First Prize**  CCKS 2021：蕴含实体的中文医疗对话生成 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/)

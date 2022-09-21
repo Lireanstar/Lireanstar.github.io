@@ -76,6 +76,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **First Prize**  SemEval22-Task3 PreTENS binary classification sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1292#results)
 - **First Prize**  SemEval22-Task3 PreTENS regression sub-task [[web]](https://codalab.lisn.upsaclay.fr/competitions/1290)
 - **First Prize**  SemEval22-Task1 CODWOE SGNS_EN and SGNS_RU [[web]](https://competitions.codalab.org/competitions/34022)
+- **First Prize**  NLGIW-2022 Outline-based conditional story generation challenge [[web]](http://nlg.cipsc.org.cn/evaluation_8.html)
 - **First Prize**  BioNLP-2022:   Medical Video Classification [[web]](https://codalab.lisn.upsaclay.fr/competitions/1058)
 - **First Prize**  NLPCC 2022：Multimodal Dialogue Understanding and Generation  [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
 - **First Prize**  科大讯飞2022 低资源多语种文本翻译挑战赛2.0 [[web]](https://challenge.xfyun.cn/topic/info?type=multi-language-2022)

@@ -1,1 +1,1 @@
-# Welcome to Bin Li's HomePage
+# Welcome to Bin Li's Homepage

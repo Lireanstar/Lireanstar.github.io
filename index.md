@@ -9,6 +9,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## News
 
+- 10/2022 : One conference paper has been accepted by TU@COLING-2022 Workshop [[paper]](https://aclanthology.org/2022.tu-1.2/).
 - 09/2022 : Our Demonstration paper has been accepted by EMNLP-2022 [[Arxiv]](https://arxiv.org/abs/2204.09220).
 - 09/2022 : One journal paper has been accepted by *Soft Computing* (CCF-C) [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
 - 09/2022 : One conference paper has been accepted by China Automation Congress 2022.
@@ -56,8 +57,9 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model**, Accepted in CCMT-2022 [[paper]](http://sc.cipsc.org.cn/mt/conference/2022/papers/test_paper/53/53_Paper.pdf).
 - Fei Xia\*, **Bin Li**\*, Yixuan Weng, Xiusheng Huang, and Shizhu He, **ANACONDA: Adversarial training with iNtrust loss in ACrONym DisambiguAtion**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper15.pdf).
 - Fei Xia\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Bin Sun, Shutao Li, Kang Liu, and Jun Zhao, **LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer**, Accepted in SemEval@NAACL-2022 [[paper]](https://aclanthology.org/2022.semeval-1.30/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/3).
-- Xiusheng Huang, **Bin Li**, Fei Xia, and Yixuan Weng, **A Novel Initial Reminder Framework for Acronym Extraction**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper29.pdf).
 - Minjun Zhu, **Bin Li**, Yixuan Weng, and Fei Xia, **A Knowledge Storage and Semantic Space Alignment Method for Multi-documents Dialogue Generation**, Accepted in DialDoc@ACL-2022 [[paper]](https://aclanthology.org/2022.dialdoc-1.14/).
+- Minjun Zhu, Yixuan Weng, **Bin Li**, Shizhu He, Kang Liu, Jun Zhao, **Knowledge Transfer with Visual Prompt in multi-modal Dialogue Understanding and Generation**, Accepted in TU@COLING-2022. [[paper]](https://aclanthology.org/2022.tu-1.2/)
+- Xiusheng Huang, **Bin Li**, Fei Xia, and Yixuan Weng, **A Novel Initial Reminder Framework for Acronym Extraction**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper29.pdf).
 - Yixuan Weng, Fei Xia, **Bin Li**, Xiusheng Huang, Shizhu He, Kang Liu, and Jun Zhao, **ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper20.pdf) [[code]](https://github.com/WENGSYX/ADBCMM).
 - **李宾**，陈恩城，刘鸿儒，翁诣轩，孙斌，李树涛，柏勇平，and 胡美玲, **CCKS2021：蕴含实体的中文医疗对话生成评测报告**, Accepted in CCKS-2021 [[paper]](http://sigkg.cn/ccks2021/wp-content/uploads/2021/12/CCKS2021%EF%BC%9A%E8%95%B4%E5%90%AB%E5%AE%9E%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%BB%E7%96%97%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90-1.pdf).
 - **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**, Under Review [[paper]](https://arxiv.org/abs/2203.06667)
@@ -96,6 +98,5 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
 
 <center>Last updated: 2022.09.21
-
 
 

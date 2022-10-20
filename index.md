@@ -40,7 +40,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 07/2021 : We won the championship in CCKS 2021：蕴含实体的中文医疗对话生成比赛 [[web]](https://www.biendata.xyz/competition/ccks_2021_mdg/winners/).  🏆🏆🏆
 - 05/2021 : We won the Entity-aware Medical Dialogue Generation (MedDG) Challenge in ICLR-MLPCP 2021 [[web]](https://competitions.codalab.org/competitions/30755#learn_the_details). 🏆🏆🏆
 
-## Publications [Google Scholar](https://scholar.google.com/citations?user=2ZIBEWgAAAAJ&hl=en)
+## Publications [[Google Scholar]](https://scholar.google.com/citations?user=2ZIBEWgAAAAJ&hl=en)
 
 - [1] **Bin Li**, Bin Sun, Shutao Li, Encheng Chen, Hongru Liu, Yixuan Weng, Yongping Bai, and Meiling Hu, **Distinct but Correct: Generating Diversified and Entity-revised Medical Response**, Accepted in SCIENCE CHINA Information Sciences, 2022 [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/).
 - [2] **Bin Li**, Hanjun Deng, **Bilateral personalized dialogue generation with contrastive learning**, Accepted in Soft Computing, 2022 [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w) [[code]](https://github.com/Lireanstar/BPDG).
@@ -97,6 +97,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
 
-<center>Last updated: 2022.10.18
+<center>Last updated: 2022.10.20
 
 

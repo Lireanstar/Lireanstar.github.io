@@ -90,7 +90,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Third Prize** 2021 Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
 - **Third Prize** 2021 "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
 - **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".
-- 2022 President's PhD Scholarship.
 
 ---
 

@@ -9,6 +9,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## News
 
+- 10/2022 : I got the President's PhD Scholarship.
 - 10/2022 : One conference paper has been accepted by TU@COLING-2022 Workshop [[paper]](https://aclanthology.org/2022.tu-1.2/).
 - 09/2022 : Our Demonstration paper has been accepted by EMNLP-2022 [[Arxiv]](https://arxiv.org/abs/2204.09220).
 - 09/2022 : One journal paper has been accepted by *Soft Computing* (CCF-C) [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
@@ -89,7 +90,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Third Prize** 2021 Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
 - **Third Prize** 2021 "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
 - **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".
-
+- 2022 President's PhD Scholarship.
 ---
 
 

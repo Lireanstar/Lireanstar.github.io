@@ -9,7 +9,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## News
 
-- 11/2022 : We won two-first and one-third prizes in the 2022 iFLYTEK AI Developer Competitions [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2022) [[web]](http://challenge.xfyun.cn/topic/info?type=translation-quality) [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022).
+- 11/2022 : We won two-first and one-second prizes in the 2022 iFLYTEK AI Developer Competitions [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2022) [[web]](http://challenge.xfyun.cn/topic/info?type=translation-quality) [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022).
 - 10/2022 : I got the President's PhD Scholarship.
 - 10/2022 : One conference paper has been accepted by TU@COLING-2022 Workshop [[paper]](https://aclanthology.org/2022.tu-1.2/).
 - 09/2022 : Our Demonstration paper has been accepted by EMNLP-2022 [[Arxiv]](https://arxiv.org/abs/2204.09220).
@@ -88,9 +88,9 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Second Prize** Dialogue 2022: RuATD(multi) [[web]](https://www.kaggle.com/c/ruatd-2022-multi-task/leaderboard)
 - **Second Prize** 2021 千言：面向事实一致性的生成评测比赛 [[web]](https://aistudio.baidu.com/aistudio/competition/detail/105/0/leaderboard)
 - **Second Prize** 2021 同花顺 超长答案的阅读理解 [[web]](http://contest.aicubes.cn/#/detail?topicId=25)
+- **Second Prize**  科大讯飞2022 领域迁移机器翻译挑战赛2.0 [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022)
 - **Third Prize** 2021 Aminer scholar portrait prediction challenge [[web]](https://www.biendata.xyz/competition/ccks_aminer_profiling/?source=zhihu)
 - **Third Prize** 2021 "Wudao" AI Innovation Application Competition [[web]](https://www.biendata.xyz/wudao/#/winners)
-- **Third Prize**  科大讯飞2022 领域迁移机器翻译挑战赛2.0 [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022)
 - **Third Prize**  iFLYTEK 2022 University Innovation Application Competition - "New Medical Track".
 
 ---

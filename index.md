@@ -17,7 +17,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 09/2022 : One conference paper has been accepted by China Automation Congress 2022.
 - 08/2022 : We got third prize of "iFLYTEK 2022 University Innovation Application Competition - New Medical Track".
 - 08/2022 : One journal paper has been accepted by the 18th China Conference on Machine Translation (EI-indexed) [[paper]](http://sc.cipsc.org.cn/mt/conference/2022/papers/test_paper/53/53_Paper.pdf).
-- 07/2022 : One journal paper has been accepted by *SCIENCE CHINA Information Sciences* (CCF-Top1) [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-021-3534-9).
+- 07/2022 : One journal paper has been accepted by *SCIENCE CHINA Information Sciences* (CCF-Top1, CCF-A) [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-021-3534-9).
 - 07/2022 : We won three championships of Task 4 - Multimodal Dialogue Understanding and Generation in NLPCC 2022 [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php). 🏆🏆🏆
 - 07/2022 : Two conference paper has been accepted by 2022 NAACL-SemEval Workshop.
 - 06/2022 : One conference paper have been accepted by Dialogue-2022 [[paper]](https://www.dialog-21.ru/evaluation/2022/ruatd/).
@@ -100,6 +100,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
 
-<center>Last updated: 2022.10.20
+<center>Last updated: 2022.12.1
 
 

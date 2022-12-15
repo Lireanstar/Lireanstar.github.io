@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 09/2022 : One journal paper has been accepted by *Soft Computing* (CCF-C) [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
 - 09/2022 : One conference paper has been accepted by China Automation Congress 2022.
 - 08/2022 : We got third prize of "iFLYTEK 2022 University Innovation Application Competition - New Medical Track".
-- 08/2022 : One journal paper has been accepted by the 18th China Conference on Machine Translation (EI-indexed) [[paper]](http://sc.cipsc.org.cn/mt/conference/2022/papers/test_paper/53/53_Paper.pdf).
+- 08/2022 : One journal paper has been accepted by the 18th China Conference on Machine Translation (EI-indexed) [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-7960-6_10).
 - 07/2022 : One journal paper has been accepted by *SCIENCE CHINA Information Sciences* (CCF-Top1, CCF-A) [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-021-3534-9).
 - 07/2022 : We won three championships of Task 4 - Multimodal Dialogue Understanding and Generation in NLPCC 2022 [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php). 🏆🏆🏆
 - 07/2022 : Two conference paper has been accepted by 2022 NAACL-SemEval Workshop.
@@ -56,7 +56,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, Bin Sun, and Shutao Li, **Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification**, Accepted in WASSA@ACL-2022 [[paper]](https://aclanthology.org/2022.wassa-1.22/).
 - **Bin Li**, Yixuan Weng, **Prompt-based system for personality and interpersonal reactivity prediction**, Accepted in Software impacts [[paper]](https://www.softwareimpacts.com/article/S2665-9638(22)00040-9/fulltext#:~:text=The%20prompt-based%20method%20consists%20of%20a%20pre-trained%20model,and%20interpersonal%20reactivity%20prediction.%206.%20Publications%20and%20impacts).
 - **Bin Li**\*, Yixuan Weng\*, Qiya Song\*, and Hanjun Deng, **Artificial Text Detection with Multiple Training Strategies**, Accepted in Dialogue-2022 [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
-- **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model**, Accepted in CCMT-2022 [[paper]](http://sc.cipsc.org.cn/mt/conference/2022/papers/test_paper/53/53_Paper.pdf).
+- **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **A Multi-tasking and Multi-stage Chinese Minority Pre-Trained Language Model**, Accepted in CCMT-2022 [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-7960-6_10).
 - Fei Xia\*, **Bin Li**\*, Yixuan Weng, Xiusheng Huang, and Shizhu He, **ANACONDA: Adversarial training with iNtrust loss in ACrONym DisambiguAtion**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper15.pdf).
 - Fei Xia\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Bin Sun, Shutao Li, Kang Liu, and Jun Zhao, **LingJing at SemEval-2022 Task 3: Applying DeBERTa to Lexical-level Presupposed Relation Taxonomy with Knowledge Transfer**, Accepted in SemEval@NAACL-2022 [[paper]](https://aclanthology.org/2022.semeval-1.30/)[[code]](https://github.com/WENGSYX/Semeval/tree/main/3).
 - Minjun Zhu, **Bin Li**, Yixuan Weng, and Fei Xia, **A Knowledge Storage and Semantic Space Alignment Method for Multi-documents Dialogue Generation**, Accepted in DialDoc@ACL-2022 [[paper]](https://aclanthology.org/2022.dialdoc-1.14/).
@@ -100,6 +100,6 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
 
-<center>Last updated: 2022.12.1
+<center>Last updated: 2022.12.15
 
 

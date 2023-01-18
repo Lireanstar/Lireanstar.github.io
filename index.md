@@ -14,7 +14,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 10/2022 : One conference paper has been accepted by TU@COLING-2022 Workshop [[paper]](https://aclanthology.org/2022.tu-1.2/).
 - 09/2022 : Our Demonstration paper has been accepted by EMNLP-2022 [[Arxiv]](https://arxiv.org/abs/2204.09220).
 - 09/2022 : One journal paper has been accepted by *Soft Computing* (CCF-C) [[paper]](https://www.dialog-21.ru/media/5777/libplusetal104.pdf).
-- 09/2022 : One conference paper has been accepted by China Automation Congress 2022.
+- 09/2022 : One conference paper has been accepted by China Automation Congress 2022 [[Web]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvUyHN6pDos6LvajR0lcGu3hFbtsImBqX6KIItUil_ZV850Du4y1jj08%3d&uniplatform=NZKPT).
 - 08/2022 : We got third prize of "iFLYTEK 2022 University Innovation Application Competition - New Medical Track".
 - 08/2022 : One journal paper has been accepted by the 18th China Conference on Machine Translation (EI-indexed) [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-7960-6_10).
 - 07/2022 : One journal paper has been accepted by *SCIENCE CHINA Information Sciences* (CCF-Top1, CCF-A) [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-021-3534-9).
@@ -63,7 +63,8 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - Minjun Zhu, Yixuan Weng, **Bin Li**, Shizhu He, Kang Liu, Jun Zhao, **Knowledge Transfer with Visual Prompt in multi-modal Dialogue Understanding and Generation**, Accepted in TU@COLING-2022. [[paper]](https://aclanthology.org/2022.tu-1.2/)
 - Xiusheng Huang, **Bin Li**, Fei Xia, and Yixuan Weng, **A Novel Initial Reminder Framework for Acronym Extraction**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper29.pdf).
 - Yixuan Weng, Fei Xia, **Bin Li**, Xiusheng Huang, Shizhu He, Kang Liu, and Jun Zhao, **ADBCMM : Acronym Disambiguation by Building Counterfactuals and Multilingual Mixing**, Accepted in *CEUR*. journal [[paper]](http://ceur-ws.org/Vol-3164/paper20.pdf) [[code]](https://github.com/WENGSYX/ADBCMM).
-- **李宾**，陈恩城，刘鸿儒，翁诣轩，孙斌，李树涛，柏勇平，and 胡美玲, **CCKS2021：蕴含实体的中文医疗对话生成评测报告**, Accepted in CCKS-2021 [[paper]](http://sigkg.cn/ccks2021/wp-content/uploads/2021/12/CCKS2021%EF%BC%9A%E8%95%B4%E5%90%AB%E5%AE%9E%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%BB%E7%96%97%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90-1.pdf).
+- **李宾**，陈恩城，刘鸿儒，翁诣轩，孙斌，李树涛，柏勇平，and 胡美玲, **CCKS2021：蕴含实体的中文医疗对话生成评测报告**, Accepted in CCKS-2021 [[Web]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvUyHN6pDos6LvajR0lcGu3hFbtsImBqX6KIItUil_ZV850Du4y1jj08%3d&uniplatform=NZKPT).
+- **李宾**，朱敏郡，翁诣轩，夏飞，李树涛, **CAC2022：基于迁移降噪学习的大纲条件故事生成**, Accepted in CAC-2022 [[paper]](http://sigkg.cn/ccks2021/wp-content/uploads/2021/12/CCKS2021%EF%BC%9A%E8%95%B4%E5%90%AB%E5%AE%9E%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%BB%E7%96%97%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90-1.pdf).
 - **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**, Under Review [[paper]](https://arxiv.org/abs/2203.06667)
 - **Bin Li**, Yixuan Weng, Fei Xia, and Hanjun Deng, **Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages**, Under Review [[paper]](https://arxiv.org/abs/2204.04344).
 

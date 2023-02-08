@@ -9,7 +9,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 ## News
 
-- 2/2023 : Four co-authored manuscripts have been submitted to ACL 2023 and IEEE-ICASSP 2023. 🙏🙏🙏
+- 2/2023 : Four co-authored manuscripts have been submitted to ACL 2023 and ICASSP 2023. 🙏🙏🙏
 - 11/2022 : We won two-first and one-second prizes in the 2022 iFLYTEK AI Developer Competitions [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2022) [[web]](http://challenge.xfyun.cn/topic/info?type=translation-quality) [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022).
 - 10/2022 : I got the President's PhD Scholarship.
 - 10/2022 : One conference paper has been accepted by TU@COLING-2022 Workshop [[paper]](https://aclanthology.org/2022.tu-1.2/).

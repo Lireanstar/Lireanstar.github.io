@@ -8,7 +8,7 @@
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
-
+- 2/2023 : Two conference papers have been submitted to ICASSP 2023.
 - 2/2023 : Four co-authored manuscripts have been submitted to ACL 2023 and ICASSP 2023. 🙏🙏🙏
 - 11/2022 : We won two-first and one-second prizes in the 2022 iFLYTEK AI Developer Competitions [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2022) [[web]](http://challenge.xfyun.cn/topic/info?type=translation-quality) [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022).
 - 10/2022 : I got the President's PhD Scholarship.
@@ -20,9 +20,9 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - 08/2022 : One journal paper has been accepted by the 18th China Conference on Machine Translation (EI-indexed) [[paper]](https://link.springer.com/chapter/10.1007/978-981-19-7960-6_10).
 - 07/2022 : One journal paper has been accepted by *SCIENCE CHINA Information Sciences* (CCF-Top1, CCF-A) [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-021-3534-9).
 - 07/2022 : We won three championships of Task 4 - Multimodal Dialogue Understanding and Generation in NLPCC 2022 [[web]](http://tcci.ccf.org.cn/conference/2022/cfpt.php). 🏆🏆🏆
-- 07/2022 : Two conference paper has been accepted by 2022 NAACL-SemEval Workshop.
-- 06/2022 : One conference paper have been accepted by Dialogue-2022 [[paper]](https://www.dialog-21.ru/evaluation/2022/ruatd/).
-- 06/2022 : Two conference paper have been accepted by WASSA@ACL 2022.
+- 07/2022 : Two conference papers have been accepted by 2022 NAACL-SemEval Workshop.
+- 06/2022 : One conference paper has been accepted by Dialogue-2022 [[paper]](https://www.dialog-21.ru/evaluation/2022/ruatd/).
+- 06/2022 : Two conference papers have been accepted by WASSA@ACL 2022.
 - 05/2022 : We won three championships including sub-task1, 3 and 4 in WASSA@ACL-2022. [[web]](https://wassa-workshop.github.io/2022/shared_task/). 🏆🏆🏆
 - 05/2022 : One conference paper has been accepted by BioNLP@ACL2022 Workshop.
 - 05/2022 : We got second prize of RuATD (multi) at Kaggle in Dialogue-2022 [[web]](https://www.kaggle.com/competitions/ruatd-2022-multi-task/overview/evaluation). 

@@ -8,6 +8,7 @@
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
+- 4/2023 : We orgainzed the NLPCC 2023 shared task 5 Chinese Medical Instructional Video Question Answering [[web]](https://cmivqa.github.io/). 🎉🎉🎉
 - 2/2023 : Two conference papers have been submitted to ICASSP 2023.
 - 2/2023 : Four co-authored manuscripts have been submitted to ACL 2023 and ICASSP 2023. 🙏🙏🙏
 - 11/2022 : We won two-first and one-second prizes in the 2022 iFLYTEK AI Developer Competitions [[web]](http://challenge.xfyun.cn/topic/info?type=multi-language-2022) [[web]](http://challenge.xfyun.cn/topic/info?type=translation-quality) [[web]](http://challenge.xfyun.cn/topic/info?type=domain-migration-2022).

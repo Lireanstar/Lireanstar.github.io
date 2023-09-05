@@ -8,7 +8,8 @@
 I am a fourth-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
-- 7/2023 : One conference papers have been accepted by NLPCC 2023.
+- 9/2023 : One Journal paper has been accepted in Computer Speech & Language 2023.
+- 7/2023 : One conference paper has been accepted by NLPCC 2023.
 - 5/2023 : Two conference papers have been accepted by ICASSP 2023.
 - 4/2023 : We orgainzed the NLPCC 2023 shared task 5 Chinese Medical Instructional Video Question Answering [[web]](https://cmivqa.github.io/). 🎉🎉🎉
 - 2/2023 : Four co-authored manuscripts have been submitted to ACL 2023 and ICASSP 2023. 🙏🙏🙏
@@ -71,7 +72,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 - **李宾**，陈恩城，刘鸿儒，翁诣轩，孙斌，李树涛，柏勇平，and 胡美玲, **CCKS2021：蕴含实体的中文医疗对话生成评测报告**, Accepted in CCKS-2021 [[Web]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvUyHN6pDos6LvajR0lcGu3hFbtsImBqX6KIItUil_ZV850Du4y1jj08%3d&uniplatform=NZKPT).
 - **李宾**，朱敏郡，翁诣轩，夏飞，and 李树涛, **基于迁移降噪学习的大纲条件故事生成**, Accepted in CAC-2022 [[paper]](http://sigkg.cn/ccks2021/wp-content/uploads/2021/12/CCKS2021%EF%BC%9A%E8%95%B4%E5%90%AB%E5%AE%9E%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%BB%E7%96%97%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90-1.pdf).
 - **Bin Li**\*, Yixuan Weng\*, Bin Sun, and Shutao Li, **Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**, Under Review [[paper]](https://arxiv.org/abs/2203.06667)
-- **Bin Li**, Yixuan Weng, Fei Xia, and Hanjun Deng, **Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages**, Under Review [[paper]](https://arxiv.org/abs/2204.04344).
+- **Bin Li**, Yixuan Weng, Fei Xia, and Hanjun Deng, **Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages**, Accepted in Computer Speech & Language 2023 [[paper]](https://arxiv.org/abs/2204.04344).
 
 
 ## Awards
@@ -105,7 +106,7 @@ I am a fourth-year Ph.D. student in the College of Electrical and Information En
 
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
-<center>Last updated: 2023.7.18
+<center>Last updated: 2023.9.4
 
 
 

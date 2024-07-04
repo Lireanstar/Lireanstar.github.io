@@ -1,13 +1,17 @@
 # Welcome to Bin Li's Homepage
 <h1><b>Bin Li</b></h1>
-<p>Ph.D. Candidate, Hunan University
-<!--                        <br>Changsha, China</br>-->
+<p>PostDoc, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+<!--                        <br>Shenzhen, Guangzhou</br>-->
 </p>
 
 
-I am a final-year Ph.D. student in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/), and was fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
+
+I am a PostDoc in the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I graduated with my PhD in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/) (HNU), and fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
+- 6/2024: One Journal paper has been accepted in TPAMI [[paper]](https://ieeexplore.ieee.org/abstract/document/10552074/).
+- 5/2024:  I successfully defended my doctoral dissertation and became a deep drift for Shenzhen.
+- 1/2024 : One Conference paper has been accepted in ICLR 2024 [[paper]](https://openreview.net/forum?id=tpIUgkq0xa).
 - 10/2023 : Two Conference papers have been accepted in EMNLP 2023 and NLPCC 2023.
 - 9/2023 : One Journal paper has been accepted in Computer Speech & Language 2023.
 - 7/2023 : One conference paper has been accepted by NLPCC 2023.
@@ -49,6 +53,7 @@ I am a final-year Ph.D. student in the College of Electrical and Information Eng
 
 ## Publications
 
+- Shutao Li, **Bin Li**, Bin Sun, Yixuan Weng,  "Towards Visual-Prompt Temporal Answer Grounding in Instructional Video." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10552074/) [[code]](https://github.com/wengsyx/VPTSL).
 - **Bin Li**, Bin Sun, Shutao Li, Encheng Chen, Hongru Liu, Yixuan Weng, Yongping Bai, and Meiling Hu, **Distinct but Correct: Generating Diversified and Entity-revised Medical Response**, Accepted in SCIENCE CHINA Information Sciences, 2022 [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/).
 - **Bin Li**, Hanjun Deng, **Bilateral personalized dialogue generation with contrastive learning**, Accepted in Soft Computing, 2022 [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w) [[code]](https://github.com/Lireanstar/BPDG).
 - Xia Fei\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Kang Liu, Bin Sun, Shutao Li, and Jun Zhao, **MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs**, Accepted in EMNLP Demonstration (2022) [[paper]](https://aclanthology.org/2022.emnlp-demos.15/) [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/).
@@ -108,6 +113,5 @@ I am a final-year Ph.D. student in the College of Electrical and Information Eng
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
 <center>Last updated: 2023.10.8
-
 
 

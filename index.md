@@ -1,6 +1,6 @@
 # Welcome to Bin Li's Homepage
 <h1><b>Bin Li</b></h1>
-<p>PostDoc, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+<p>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 <!--                        <br>Shenzhen, Guangzhou</br>-->
 </p>
 

@@ -55,7 +55,7 @@ I am in the Shenzhen Institute of Advanced Technology, Chinese Academy of Scienc
 
 ## Publications
 
-- Shutao Li, **Bin Li**, Bin Sun, Yixuan Weng,  **Towards Visual-Prompt Temporal Answer Grounding in Instructional Video." *IEEE Transactions on Pattern Analysis and Machine Intelligence** (2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10552074/) [[code]](https://github.com/wengsyx/VPTSL).
+- Shutao Li, **Bin Li**, Bin Sun, Yixuan Weng,  **Towards Visual-Prompt Temporal Answer Grounding in Instructional Video**, Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence*(2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10552074/) [[code]](https://github.com/wengsyx/VPTSL).
 - **Bin Li**, Bin Sun, Shutao Li, Encheng Chen, Hongru Liu, Yixuan Weng, Yongping Bai, and Meiling Hu, **Distinct but Correct: Generating Diversified and Entity-revised Medical Response**, Accepted in SCIENCE CHINA Information Sciences, 2022 [[paper]](https://arxiv.org/abs/2108.01266) [[demo]](http://med.wengsyx.com/).
 - **Bin Li**, Hanjun Deng, **Bilateral personalized dialogue generation with contrastive learning**, Accepted in Soft Computing, 2022 [[paper]](https://link.springer.com/article/10.1007/s00500-022-07495-w) [[code]](https://github.com/Lireanstar/BPDG).
 - Xia Fei\*, **Bin Li**\*, Yixuan Weng\*, Shizhu He, Kang Liu, Bin Sun, Shutao Li, and Jun Zhao, **MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs**, Accepted in EMNLP Demonstration (2022) [[paper]](https://aclanthology.org/2022.emnlp-demos.15/) [[code]](https://github.com/WENGSYX/LingYi) [[demo]](http://kg.wengsyx.com/).

@@ -9,6 +9,8 @@
 I am in the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I graduated with my PhD in the College of Electrical and Information Engineering of [Hunan University](https://www.hnu.edu.cn/) (HNU), and fortunately supervised by Prof. [Shutao Li](http://eeit.hnu.edu.cn/info/1279/5237.htm) and Prof. [Bin Sun](http://eeit.hnu.edu.cn/info/1549/8165.htm). I received my B.S. degree from [Yanshan University](https://www.ysu.edu.cn/) in 2019. My research interests include natural language processing, human-robot interaction, and multimodal fusion. I serve as a peer reviewer for international conferences, such as AAAI, ACL, and EMNLP.
 
 ## News
+- 12/2024: One conference papers has been submitted in ICME 🙏🙏🙏 [[paper]](https://arxiv.org/pdf/2411.02851).
+- 11/2024: One Journal papers has been accepted in IEEE Journal of Biomedical and Health Informatics [[paper]](https://ieeexplore.ieee.org/document/10806772).
 - 10/2024: Two conference papers has been accepted in NLPCC [[paper]](https://link.springer.com/book/10.1007/978-981-97-9443-0).
 - 9/2024: One Journal paper has been accepted in Bioengineering [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11504449/).
 - 6/2024: One Journal paper has been accepted in TPAMI [[paper]](https://ieeexplore.ieee.org/abstract/document/10552074/).
@@ -114,7 +116,7 @@ I am in the Shenzhen Institute of Advanced Technology, Chinese Academy of Scienc
 
 <script type="text/javascript" id="clustrmaps"
                 src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=450&t=tt&d=BLUL1S8KT8rpENxmLym2SZSQUUv5tzgXDM8ZthYUPP8"></script>
-<center>Last updated: 2024.11.1
+<center>Last updated: 2024.12.27
 
 
 
